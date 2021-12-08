@@ -1,0 +1,6 @@
+print('1.',round(15.05,1))
+print('2.',round(15.15,1))
+print('\n')
+print('3.',round(15.705,2))
+print('4.',round(15.715,2))
+print('\n')
